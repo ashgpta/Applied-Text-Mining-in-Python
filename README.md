@@ -1,5 +1,5 @@
 # Applied-Text-Mining-in-Python
-
+This course is very helpful.
 ## Module 1: Working with Text in Python
 5 videos, 4 readings, 1 practice quiz
 
